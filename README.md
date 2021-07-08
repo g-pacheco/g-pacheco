@@ -1,4 +1,4 @@
-## George Pacheco
+## George Pacheco ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
  
  <div>
   <a href="https://github.com/layka-pacheco">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layka-pacheco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  ##
+ ##
  
 <div>
  
