@@ -1,4 +1,5 @@
-## George Pacheco ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+# George Pacheco
+![](https://visitor-badge.glitch.me/badge?page_id=layka-pacheco.layka-pacheco)
  
  <div>
   <a href="https://github.com/layka-pacheco">
