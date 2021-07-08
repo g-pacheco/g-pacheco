@@ -1,7 +1,7 @@
 
 # George Pacheco
 
-[![Instagram Badge](https://img.shields.io/badge/-@menino.pacheco-blue?style=social&logo=Instagram&link=https://www.instagram.com/menino.pacheco/)](https://www.instagram.com/menino.pacheco/)
+[![Instagram Badge](https://img.shields.io/badge/-menino.pacheco-blue?style=social&logo=Instagram&link=https://www.instagram.com/menino.pacheco/)](https://www.instagram.com/menino.pacheco/)
 <br />
 <br />
 
