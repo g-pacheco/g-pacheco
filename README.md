@@ -1,4 +1,4 @@
-## George Pacheco
+George Pacheco
 #### _Evolutionary Biologist_
  
  <div>
