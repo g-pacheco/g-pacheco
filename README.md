@@ -1,5 +1,4 @@
-George Pacheco
-#### _Evolutionary Biologist_
+## George Pacheco
  
  <div>
   <a href="https://github.com/layka-pacheco">
