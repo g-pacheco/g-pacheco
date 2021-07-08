@@ -1,8 +1,6 @@
 
 # George Pacheco
 
-[![Instagram Badge](https://img.shields.io/badge/-menino.pacheco-blue?style=social&logo=Instagram&link=https://www.instagram.com/menino.pacheco/)](https://www.instagram.com/menino.pacheco/)
-<br />
 <br />
 
  <div>
@@ -11,5 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layka-pacheco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+***
 ***
 ![Snake animation](https://github.com/layka-pacheco/layka-pacheco/blob/output/github-contribution-grid-snake.svg)
