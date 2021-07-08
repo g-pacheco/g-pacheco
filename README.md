@@ -8,11 +8,6 @@
   
   ##
  
-<div> 
-<a href="https://www.instagram.com/menino.pacheco/">
-  <img align="left" alt="George's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+<div>
  
   ![Snake animation](https://github.com/layka-pacheco/layka-pacheco/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
