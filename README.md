@@ -1,4 +1,3 @@
-![](https://visitor-badge.glitch.me/badge?page_id=layka-pacheco.layka-pacheco)
 
 # George Pacheco
 
