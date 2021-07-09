@@ -1,5 +1,5 @@
 
-# George Pacheco
+##### _Initially trained as a biologist in the Brazilian Northeast, I have worked on several projects in the vein of animal evolutionary genomics investigating a diverse range of taxa—from tiny Collembolans to culturally evolving killer whales, which has given me a vast experience in the molecular lab and a fair understanding of the rationale behind bioinformatic analyses. During my scientific career, I have developed a profound interest in the genomic and epigenomic architecture of complex traits. Ultimately, I have a sound interest in the molecular mechanisms implicated in the maintenance those traits of medical relevance._
 <br />
 
  <div>
