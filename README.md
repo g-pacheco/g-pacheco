@@ -19,6 +19,6 @@ I am a huge supporter of #OpenScience, so I use this GitHub account to
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layka-pacheco&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-#### [Crazy Snake](https://github.com/Platane/snk) devouring my scarce commits! 
+<br />
+##### [Crazy Snake](https://github.com/Platane/snk) devouring my scarce commits! 
 ![Snake animation](https://github.com/layka-pacheco/layka-pacheco/blob/output/github-contribution-grid-snake.svg)
