@@ -1,16 +1,13 @@
-<br />
 
 ### Hello there!
 
-#####  
-
-(¡so far!).
+##### (¡so far!).
 
 * [**Pacheco et al. (2021)**](https://github.com/layka-pacheco/FeralPigeonGenomics)
-* [**Berbel-Filho et al. (2021)**](https://github.com/layka-pacheco/KryptolebiasGenomics)
-* [**Skovrind et al. (2021)**](https://github.com/layka-pacheco/PerchGenomics)
+* [**Berbel-Filho et al. (2021)**](https://github.com/layka-pacheco/KryptolebiasGenomics) [Coming Soon]
+* [**Skovrind et al. (2021)**](https://github.com/layka-pacheco/PerchGenomics) [Coming Soon]
 
-###### NOTE: Please let me know should you spot any inconsistance in my documentations, and I will act on it promptly -- thank you!
+###### NOTE: Please let me know should you spot any inconsistance across my documentations, and I will act on it promptly -- thank you!
 
 #
 
