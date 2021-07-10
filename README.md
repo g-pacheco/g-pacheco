@@ -21,5 +21,5 @@
 
 
 ![Snake animation](https://github.com/layka-pacheco/layka-pacheco/blob/output/github-contribution-grid-snake.svg)
-[Crazy Snake](https://github.com/Platane/snk) devouring my scarce commits!
+[Crazy Snake](https://github.com/Platane/snk) devouring my scarce commits! 👆
 
