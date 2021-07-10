@@ -9,7 +9,7 @@ I am a huge supporter of #OpenScience, so I use this GitHub account to
 * [**Berbel-Filho et al. (2021)**](https://github.com/layka-pacheco/KryptolebiasGenomics) [Coming Soon]
 * [**Skovrind et al. (2021)**](https://github.com/layka-pacheco/PerchGenomics) [Coming Soon]
 
-###### NOTE: Please let me know should you spot any inconsistance across my documentations, and I will act on it promptly -- thank you!
+###### NOTE: Please let me (ganpa@aqua.dtu.dk) know should you spot any inconsistances across my documentations, and I will act on it promptly -- thank you!
 
 #
 
