@@ -1,7 +1,7 @@
 
 ## Hello there!
 
-##### I was initially trained as a biologist in the [Brazilian Northeast](https://en.wikipedia.org/wiki/Northeast_Region,_Brazil). Since then, I have worked on several projects in the vein of _Evolutionary Genomics_ investigating a diverse range of taxa such as tiny [Collembolans](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) and culturally evolving [killer whales](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099).
+> I was initially trained as a biologist in the [Brazilian Northeast](https://en.wikipedia.org/wiki/Northeast_Region,_Brazil). Since then, I have worked on several projects in the vein of _Evolutionary Genomics_ investigating a diverse range of taxa such as tiny [Collembolans](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) and culturally evolving [killer whales](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099).
 
 (¡so far!).
 
