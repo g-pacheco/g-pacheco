@@ -8,6 +8,7 @@
 * [**Pacheco et al. (2021)**](https://github.com/layka-pacheco/FeralPigeonGenomics)
 * [**Berbel-Filho et al. (2021)**](https://github.com/layka-pacheco/KryptolebiasGenomics) [Coming Soon]
 * [**Skovrind et al. (2021)**](https://github.com/layka-pacheco/PerchGenomics) [Coming Soon]
+* [**Pacheco et al. (2020)**](https://github.com/layka-pacheco/PigeonBreedsGenomics)
 
 ###### NOTE: Please let me (ganpa@aqua.dtu.dk) know should you spot any inconsistances across my documentations, and I will act on it promptly -- thank you!
 ***
