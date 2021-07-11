@@ -3,12 +3,7 @@
 
 
 > I was initially trained as a biologist in the [Brazilian Northeast](https://en.wikipedia.org/wiki/Northeast_Region,_Brazil). Since then, I have worked on several projects in the vein of _Evolutionary Genomics_ investigating a diverse range of taxa such as tiny [Collembolans](https://onlinelibrary.wiley.com/doi/abs/10.1111/zsc.12377) and culturally evolving [killer whales](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.15099).  
-> I am a huge supporter of #OpenScience, so I use this GitHub account to store and share the codes used in my publications in the individual repositories below:  
-
-* [**Pacheco et al. (2021)**](https://github.com/layka-pacheco/FeralPigeonGenomics)
-* [**Berbel-Filho et al. (2021)**](https://github.com/layka-pacheco/KryptolebiasGenomics) [Coming Soon]
-* [**Skovrind et al. (2021)**](https://github.com/layka-pacheco/PerchGenomics) [Coming Soon]
-* [**Pacheco et al. (2020)**](https://github.com/layka-pacheco/PigeonBreedsGenomics)
+> I am a huge supporter of #OpenScience, so I use this GitHub account to _store_ and _share_ the codes used in my publications in [individual repositories](https://github.com/layka-pacheco?tab=repositories).  
 
 ###### NOTE: Please let me (ganpa@aqua.dtu.dk) know should you spot any inconsistances across my documentations, and I will act on it promptly -- thank you!
 ***
