@@ -8,8 +8,6 @@
 <a href='https://tidyverse.tidyverse.org'><img src='https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/tidyverseLogo.png' align="leth" width="60" /></a>
 <a href='https://ggplot2.tidyverse.org/'><img src="https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="60" />
 
-
-###### NOTE: Please let me (ganpa@aqua.dtu.dk) know should you spot any inconsistances across my documentations, and I will act on it promptly -- thank you!
 ***
 ***
 
