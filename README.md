@@ -9,7 +9,6 @@
 <a href='https://ggplot2.tidyverse.org/'><img src="https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="60" />
 
 ***
-***
 
  <div>
   <a href="https://github.com/layka-pacheco">
