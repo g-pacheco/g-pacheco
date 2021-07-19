@@ -7,7 +7,7 @@
 
 <a href='https://git-scm.com/'><img src="https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitLogo.png" align="leth" width="40" />
 <a href='https://github.com/'><img src="https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitHubLogo.png" align="leth" width="40" />
-<a href='https://tidyverse.tidyverse.org'><img src='https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/RStudioLogo.png' align="leth" width="40" />
+<a href='https://www.rstudio.com/'><img src='https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/RStudioLogo.png' align="leth" width="40" />
 <a href='https://tidyverse.tidyverse.org'><img src='https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/tidyverseLogo.png' align="leth" width="40" />
 <a href='https://ggplot2.tidyverse.org/'><img src="https://github.com/layka-pacheco/layka-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="40" />
 
