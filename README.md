@@ -1,8 +1,7 @@
-<h3 align=right>🔬🧬💻🧠🔭<p/ >
-</h3>
+<h3 align=right>🔬🧬💻🧠🔭<p/ ></h3>
 <br/ >
 
-<h1 align="center">Hello there! 👋🤓<p/ ></h1>
+<h1 align="center"> Hello there! 👋🤓 </h1>
 
 <div align="justify">
 
