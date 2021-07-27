@@ -14,11 +14,10 @@
 
 ***
 
- <div>
-  <a href="https://github.com/g-pacheco">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=g-pacheco&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-pacheco&layout=compact&langs_count=7&theme=solarized-light"/>
-</div>
+<p align=center>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=g-pacheco&bg_color=00000000&text_color=58a6ff&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-pacheco&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=false&disable_animations=false&show_icons=true&card_width=485&line_height=35" />
+</p>
 
 
 ![Snake animation](https://github.com/g-pacheco/g-pacheco/blob/output/github-contribution-grid-snake.svg)
