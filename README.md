@@ -1,7 +1,7 @@
 <h3 align=right>🔬🧬💻🧠🔭<p/ ></h3>
 <br/ >
 
-<h1 align="center"> Hello there! 👋🤓 </h1>
+<h1 align="center"> Hello there! 👋🤓 </h1><br/ >
 
 <div align="justify">
 
@@ -11,7 +11,6 @@
  </div>
 
 <div align="center">
-<hr width="50%" style="height:5px;">
 
 <a href='https://git-scm.com/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitLogo.png" align="leth" width="40" />
 <a href='https://github.com/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitHubLogo.png" align="leth" width="40" />
@@ -19,9 +18,8 @@
 <a href='https://tidyverse.tidyverse.org'><img src='https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/tidyverseLogo.png' align="leth" width="40" />
 <a href='https://ggplot2.tidyverse.org/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="40" />
 
-<p align=center>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=g-pacheco&bg_color=00000000&text_color=B869AC&icon_color=EDEDED&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-pacheco&layout=compact&langs_count=10&bg_color=00000000&text_color=B869AC&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=g-pacheco&bg_color=00000000&text_color=B869AC&icon_color=EDEDED&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-pacheco&layout=compact&langs_count=10&bg_color=00000000&text_color=B869AC&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true" />
 </p>
  </div>
 
