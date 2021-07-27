@@ -1,4 +1,4 @@
-<h3 align=right>🔬🧬💻🧠🔭<p/ >
+<h3 align=left>🔬🧬💻🧠🔭<p/ >
 </h3>
 
 <h1 align=center>Hello there!<p/ >
