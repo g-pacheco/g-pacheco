@@ -13,12 +13,12 @@
 <div align="center"><b><i>Evolutionary Biology • Genomics • Neuroscience</b></i></div>
 <hr width="50%" style="height:5px;">
 
-<a href='https://git-scm.com/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitLogo.png" align="leth" width="40" />
-<a href='https://github.com/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitHubLogo.png" align="leth" width="40" />
-<a href='https://www.rstudio.com/'><img src='https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/RStudioLogo.png' align="leth" width="40" />
-<a href='https://tidyverse.tidyverse.org'><img src='https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/tidyverseLogo.png' align="leth" width="40" />
-<a href='https://ggplot2.tidyverse.org/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="40" />
-<a href='https://gohugo.io/'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/HUGOLogo.png" align="leth" height="45.5" />
+<a href='https://git-scm.com/' target='_blank'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitLogo.png" align="leth" width="40" />
+<a href='https://github.com/' target='_blank'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/GitHubLogo.png" align="leth" width="40" />
+<a href='https://www.rstudio.com/' target='_blank'><img src='https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/RStudioLogo.png' align="leth" width="40" />
+<a href='https://tidyverse.tidyverse.org' target='_blank'><img src='https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/tidyverseLogo.png' align="leth" width="40" />
+<a href='https://ggplot2.tidyverse.org/' target='_blank'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/ggplot2Logo.png" align="leth" width="40" />
+<a href='https://gohugo.io/' target='_blank'><img src="https://github.com/g-pacheco/g-pacheco/blob/main/Profile--GitHubAuxiliaryFiles/HUGOLogo.png" align="leth" height="45.5" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=g-pacheco&bg_color=00000000&text_color=B869AC&icon_color=EDEDED&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-pacheco&layout=compact&langs_count=10&bg_color=00000000&text_color=B869AC&title_color=EDEDED&hide_border=false&disable_animations=false&show_icons=true" />
